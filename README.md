@@ -1,4 +1,4 @@
-Advanced-Calci is a flexible calculator application built using the C programming language. This project demonstrates fundamental programming concepts while implementing advanced arithmetic operations and features. It's designed for learners, hobbyists, and anyone who wants to enhance their basic understanding of C programming.
+Advanced-Calc is a flexible calculator application built using the C programming language. This project demonstrates fundamental programming concepts while implementing advanced arithmetic operations and features. It's designed for learners, hobbyists, and anyone who wants to enhance their basic understanding of C programming.
 
 Error Handling:
 
